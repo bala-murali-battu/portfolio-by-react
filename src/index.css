@@ -134,6 +134,7 @@
             border: 1px solid lightgray;
             display: flex;
             flex-direction: column;
+            border-radius: 6%;
         }
       
         .message{
